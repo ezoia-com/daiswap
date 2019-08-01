@@ -1,3 +1,7 @@
+# Site
+
+Visit https://www.daiswap.net. Both HTML and solidity code provided in this repository, so you can run your own too!
+
 # Fees 
 Swap contract takes a fixed 0.3% fee, fully passed on to liquidity providers. 
 The swap with DAI is direct - only one fee is applied. 
